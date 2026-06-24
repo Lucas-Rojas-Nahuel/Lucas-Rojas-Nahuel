@@ -15,11 +15,9 @@ Desarrollador Web Full Stack enfocado en el ecosistema de JavaScript. Me apasion
 
 ### 🛠️ Tecnologías y Herramientas
 
-| Tecnologías |
-| :--- | :--- |
-| **Frontend** | JavaScript (ES6+), TypeScript, React, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express, REST APIs, Autenticación (JWT, Bcrypt) |
-| **Bases de Datos & Herramientas** | MongoDB, PostgreSQL, Git, GitHub, Postman, Netlify, Render |
+-| **Frontend** | JavaScript (ES6+), TypeScript, React, HTML5, CSS3, Tailwind CSS |
+-| **Backend** | Node.js, Express, REST APIs, Autenticación (JWT, Bcrypt) |
+-| **Bases de Datos & Herramientas** | MongoDB, PostgreSQL, Git, GitHub, Postman, Netlify, Render |
 
 ---
 
